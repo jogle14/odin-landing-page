@@ -1,0 +1,43 @@
+.headContainer,
+.upperBodyContainer{
+    background: #1f2937;
+    display: flex;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+}
+
+.headContainer {
+    justify-content: space-between;
+}
+
+.logo {
+    color: white;
+    font-size: 24px;
+}
+
+.headerLinks {
+    color: #ccd1da;
+    font-size: 18px;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.upperBodyContainer {
+    justify-content: space-around;
+}
+
+.upperBodyTextTitle {
+    color: white;
+}
+
+.upperBodyTextSubtitle {
+    color: #ccd1da;
+}
+
+.typesOfBeans {
+    width: 500px;
+    height: auto;
+    padding-bottom: 30px;
+}
