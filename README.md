@@ -1,1 +1,2 @@
 # odin-landing-page
+This is for TOP Landing Page project, used to practice my html and css skills. In this project, I have elected to create a bizarre website about beans, because my friend complained my last website simply did not contain enough about this. So Sly, if you ever see this, here's to you buddy.
