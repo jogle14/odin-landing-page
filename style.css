@@ -13,7 +13,7 @@
 
 .logo {
     color: white;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 .headerLinks {
@@ -61,4 +61,23 @@
 .description {
     text-align: center;
     font-size: 18px;
+}
+
+.quoteContainer {
+    background: #ccd1da;
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+
+.quoteAtr {
+    font-size: 14px;
 }
