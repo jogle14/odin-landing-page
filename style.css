@@ -9,6 +9,7 @@
 
 .headContainer {
     justify-content: space-between;
+    border-bottom: 3px solid #18212e;
 }
 
 .logo {
@@ -25,7 +26,24 @@
 }
 
 .upperBodyContainer {
+    display: flex;
     justify-content: space-around;
+}
+
+.upperBodyTextContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.signUpButton {
+    background-color: royalblue;
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+    height: 40px;
+    width: 300px;
+    align-self: center;
 }
 
 .upperBodyTextTitle {
@@ -37,6 +55,7 @@
 }
 
 .typesOfBeans {
+    margin: 10px;
     width: 500px;
     height: auto;
     padding-bottom: 30px;
