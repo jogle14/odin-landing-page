@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .headContainer,
 .upperBodyContainer{
     background: #1f2937;
